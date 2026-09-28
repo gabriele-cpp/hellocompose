@@ -66,5 +66,3 @@ Sebelum push, pastikan:
 - [ ] Perpindahan antar tab/layar terlihat ada animasinya, bukan instan
 - [ ] *(Kalau mengerjakan Tantangan)* deep link berhasil membuka `DetailScreen`
       langsung dari perintah `adb` di atas
-
-**Pengumpulan:** push ke branch `pertemuan-5` → kumpulkan link di LMS.
